@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vidy007
 - 👀 I’m interested in Web sites
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on anybody
+- 💞️ I’m looking to collaborate with someone
 - 📫 How to reach me apoteraev65@gmail.com
 
 <!---
