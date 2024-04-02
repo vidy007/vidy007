@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vidy007
-- 👀 I’m interested in Web sites
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate with someone
-- 📫 How to reach me apoteraev65@gmail.com
+I’m currently learning C++ and looking to **die**
+Don't reach me apoteraev65@gmail.com
 
 <!---
 vidy007/vidy007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
