@@ -1,5 +1,4 @@
-  I’m currently learning C++ and looking to **die**
-  don't reach me apoteraev65@gmail.com
+arch
 
 <!---
 vidy007/vidy007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
