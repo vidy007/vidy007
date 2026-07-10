@@ -10,7 +10,7 @@ and Neovim for typing colorful monospaced letters on dark bg :3
 
 ### My tech:
 - 📱 Mi 9T
-- 💻 Lenovo ThinkPad X280
+- 💻 Lenovo ThinkPad X280 (gentoo btw)
 - 🎧 CMF Buds + Fiio JD1
 - 📷 Canon EOS 500D
 - - Sigma 28-80mm macro lens
