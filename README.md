@@ -5,13 +5,13 @@ Designer, photographer and *slightly* a coder.
 I use Alight Motion for making pretty pictures,
 Lightroom for color-correcting real photos
 and Neovim for typing colorful monospaced letters on dark bg :3
-(barely speaking english)
+(about to become a student yaaayy!!!)
 ```
 
 ### My tech:
-- 📱 Mi 9T Pro
+- 📱 Mi 9T
 - 💻 Lenovo ThinkPad X280
-- 🎧 CMF Buds 1
+- 🎧 CMF Buds + Fiio JD1
 - 📷 Canon EOS 500D
 - - Sigma 28-80mm macro lens
 - - Canon 18-55mm kit lens
